@@ -1,0 +1,4 @@
+Topic Assignment 3:
+The task 3 should be, 
+Draw a figure which should include these points, 
+the corresponding probability "density functions" along with "their contours".
